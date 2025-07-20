@@ -2,7 +2,7 @@ backend:
   name: github
   repo: novisdraco/Tejas-Newsletters
   branch: main
-  site_id: 490a8dcb-7218-4ba0-abee-089a3c68609d
+  site_id: 60bf8af4-2dad-42c3-a7b4-a4f8b4de4043
 
 media_folder: "public/newsletters"
 public_folder: "/newsletters"
