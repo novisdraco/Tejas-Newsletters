@@ -2,7 +2,7 @@ backend:
   name: github
   repo: novisdraco/Tejas-Newsletters
   branch: main
-  site_url: https://tejas-javali-newsletters.netlify.app
+  # site_url: https://tejas-javali-newsletters.netlify.app
 
 media_folder: "public/newsletters"
 public_folder: "/newsletters"
