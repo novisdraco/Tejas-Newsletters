@@ -1,8 +1,7 @@
 backend:
-  name: github
-  repo: novisdraco/Tejas-Newsletters
+  name: git-gateway
+
   branch: main
-  site_url: https://tejas-newsletters.netlify.app
 
 media_folder: "public/newsletters"
 public_folder: "/newsletters"
